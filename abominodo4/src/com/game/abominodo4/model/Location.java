@@ -25,4 +25,4 @@ public class Location extends SpacePlace {
     }
   }
 }
-   
+    
