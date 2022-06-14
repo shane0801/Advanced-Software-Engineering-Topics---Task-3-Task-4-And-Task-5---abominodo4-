@@ -25,7 +25,7 @@ public class PictureFrame{
       }
     }
     
-    //written by rajib
+    
    
 
     public void drawGridLines(Graphics g) {
